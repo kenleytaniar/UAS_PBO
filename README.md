@@ -2,3 +2,8 @@
 
 
 IDE project menggunakan apache netbeans
+
+kelompok :
+kenley
+calvin
+alatas
